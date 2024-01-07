@@ -11,12 +11,5 @@
     echo "$n1 ^ $n2 = ".($n1**$n2) ." <br>";// Operador de Expoente.
    
     echo "E outros ....";
-   
-   
-
-    
-   
-
-
 
 ?>
